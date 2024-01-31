@@ -5,7 +5,7 @@ import "./styles/app.scss";
 // import "./styles/header.scss";
 
 
-export const server = "http://localhost:4000/api/v1";
+export const server = "https://loginappbackend-za49.onrender.com/api/v1";
 
 export const Context = createContext({isAuthenticated: false});
 
